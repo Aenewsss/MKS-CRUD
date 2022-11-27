@@ -18,7 +18,7 @@
 ## Observações
 - Documentação swagger: localhost:3000/api 
 - Banco de dados Postgre na nuvem com Elephantsql
-- API instanciada no heroku - 
+- API instanciada no heroku - https://crud-mks.herokuapp.com/
 
 ## Variáveis utilizadas
 - DB_TYPE='postgres'
